@@ -1,7 +1,7 @@
 
 # SorteadorApp
 
-Aplicativo em Kotlin que sorteia e exibe um número aleatório
+Aplicativo Android em Kotlin que sorteia e exibe um número aleatório
 
 
 
